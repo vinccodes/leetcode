@@ -6,8 +6,8 @@
 // 975 = 321 + 654
 
 function addTwoNumber(l1, l2) {
-    // traverse the linked-list backwards
-
+    // traverse linked list
+    
         // grab the value and append the empty string
 
     // convert string to integer
