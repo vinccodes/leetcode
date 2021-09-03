@@ -42,3 +42,17 @@ Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
     }
     return fib[fib.length - 1]
 };
+
+// Second solution using recursion
+
+const fibonacci = (n) => {
+    if (n == 0) {
+        return 0;
+    }
+    if (n == 1) {
+        return 1;
+    }
+    else {
+        return fibonacci(n - 1) + fibonacci(n - 2)
+    }
+}
