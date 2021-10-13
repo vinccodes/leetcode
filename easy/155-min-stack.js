@@ -15,6 +15,27 @@ From https://leetcode.com/problems/min-stack/
 
 class MinStack {
 
+    // Push element val 
+     push(val) {
+
+    }
+
+    pop() {
+        
+    }
+
+    top() {
+        
+    }
+
+    getMin() {
+
+    }
+
+
+
+
+    
 
     
 }
